@@ -61,3 +61,4 @@ print(arreglo[::3])
 print(arreglo2d[0:2,1:2])
 
 #comentario nuevo 
+#Simulando nuevo cambio
