@@ -59,3 +59,5 @@ print(arreglo[::3])
 
 #Para cortar un array de 2d
 print(arreglo2d[0:2,1:2])
+
+#comentario nuevo 
